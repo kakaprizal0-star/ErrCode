@@ -1,0 +1,21 @@
+{
+    "name" : "lenwy",
+    "version" : "1.0",
+    "description" : "lenwy bot whatapps",
+    "main" : "index.js",
+
+    "scripts": {
+        "author" : "lenwy",
+        "license" : " MIT",
+        "start": "node index.js"
+    },
+
+    "dependencies": {
+        "@whiskeysockets/bailyes" : "6.7.5",
+        "axios" : "^1.4.0",
+        "chalk" : "^4.1.2",
+        "pino" : "^8.14.1",
+        "readline" : " 1.3.0" 
+    }
+
+}
